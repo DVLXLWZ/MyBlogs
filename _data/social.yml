@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://15834015310@163.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/DVLXLWZ
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/DVLXLWZ
+  icon: fab fa-github
