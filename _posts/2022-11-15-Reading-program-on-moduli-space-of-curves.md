@@ -12,7 +12,7 @@ This is my plan of the reading program of the moduli space of curves, aiming to 
 
 <!--more-->
 
-Here is our notes: [Notes on moduli space of curves](https://dvlxlwz.github.io/DvlxlwzMathNotes/ModuliSpaceCurvesReadingNotes.pdf).
+Here is our notes: [Notes on moduli space of curves](https://dvlxlwz.github.io/MyBlogs/my_notes/ModuliSpaceCurvesReadingNotes.pdf).
 This is another teaching plan: [Algebraic Curves and Surfaces I: Moduli of Curves](https://deopurkar.github.io/teaching/moduli/curvescourse.pdf).
 
 ## 1. The timeline
