@@ -13,7 +13,7 @@ This blog aim to give some remarks and complete some details in this book (Kolla
 
 > Previously on these:
 >
-> [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties I](https://dvlxlwz.github.io/2023/01/10/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-I/).
+> [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties I](https://dvlxlwz.github.io/2023/01/18/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-I/).
 
 ## Chapter 3. Cone Theorems
 ### Section 3.2. Basepoint-free Theorem
