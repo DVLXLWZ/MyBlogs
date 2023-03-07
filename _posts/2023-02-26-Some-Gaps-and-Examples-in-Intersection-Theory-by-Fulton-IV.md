@@ -14,11 +14,11 @@ This is one of a series of blogs aiming to complete some details of the examples
 
 > Previously on these:
 >
-> [Some Gaps and Examples in Intersection Theory by Fulton I](https://dvlxlwz.github.io/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-I/);
+> [Some Gaps and Examples in Intersection Theory by Fulton I](https://dvlxlwz.github.io/MyBlogs/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-I/);
 > 
-> [Some Gaps and Examples in Intersection Theory by Fulton II](https://dvlxlwz.github.io/2022/12/28/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-II/);
+> [Some Gaps and Examples in Intersection Theory by Fulton II](https://dvlxlwz.github.io/MyBlogs/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-II/);
 > 
-> [Some Gaps and Examples in Intersection Theory by Fulton III](https://dvlxlwz.github.io/2023/01/19/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-III/).
+> [Some Gaps and Examples in Intersection Theory by Fulton III](https://dvlxlwz.github.io/MyBlogs/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-III/).
 
 ## Chapter 14. Degeneracy Loci and Grassmannians
 ### Section 14.1. Localized Top Chern Class
