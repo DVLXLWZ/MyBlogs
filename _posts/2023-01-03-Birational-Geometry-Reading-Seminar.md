@@ -24,11 +24,11 @@ Including the basic theory of schemes and cohomology of coherent sheaves at the 
 
 Here are my remarks in the book:
  
-> 1. [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties Chapter 1-2](https://dvlxlwz.github.io/2023/01/10/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-I/);
+> 1. [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties Chapter 1-2](https://dvlxlwz.github.io/MyBlogs/2023/01/10/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-I/);
 > 
-> 2. [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties Chapter 3](https://dvlxlwz.github.io/2023/01/18/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-II/);
+> 2. [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties Chapter 3](https://dvlxlwz.github.io/MyBlogs/2023/01/10/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-II/);
 > 
-> 3. [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties Chapter 4-5](https://dvlxlwz.github.io/2023/02/09/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-III-(The-End)/).
+> 3. [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties Chapter 4-5](https://dvlxlwz.github.io/MyBlogs/2023/02/09/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-III-(The-End)/).
 
 + **Chapter 1-10 in Classification of Higher Dimensional Algebraic Varieties by Hacon/Kovács.** More recent book and MMP in Birational Geometry.
 
