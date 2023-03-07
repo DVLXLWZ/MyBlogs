@@ -24,13 +24,15 @@ Including the basic theory of schemes and cohomology of coherent sheaves (such a
 
 **Here are my notes about examples and gaps in book:**
 
-> 1.1. [Some Gaps and Examples in Intersection Theory by Fulton chapter 1-6](https://dvlxlwz.github.io/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-I/);
+> 1.1. [Some Gaps and Examples in Intersection Theory by Fulton chapter 1-6](https://dvlxlwz.github.io/MyBlogs/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-I/);
 > 
-> 1.2. [Some Gaps and Examples in Intersection Theory by Fulton chapter 7-9](https://dvlxlwz.github.io/2022/12/28/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-II/);
+> 1.2. [Some Gaps and Examples in Intersection Theory by Fulton chapter 7-9](https://dvlxlwz.github.io/MyBlogs/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-II/);
 > 
-> 1.3. [Some Gaps and Examples in Intersection Theory by Fulton chapter 10-13](https://dvlxlwz.github.io/2023/01/19/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-III/);
+> 1.3. [Some Gaps and Examples in Intersection Theory by Fulton chapter 10-13](https://dvlxlwz.github.io/MyBlogs/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-III/);
+>
+> 1.4. [Some Gaps and Examples in Intersection Theory by Fulton chapter 14-16](https://dvlxlwz.github.io/MyBlogs/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-IV/);
 > 
-> 1.4. Need to add.
+> 1.5. Need to add.
 
 > + *More References.*
 >  **3264 and All That, A Second Course in Algebraic Geometry by David Eisenbud and Joe Harris.** (see [3264 and All That](https://www.cambridge.org/core/books/3264-and-all-that/DC062983CC5F8B7CDD37CFEBCCA5FEA4).
