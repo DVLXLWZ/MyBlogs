@@ -14,7 +14,7 @@ This is one of a series of blogs aiming to complete some details of the examples
 
 > Previously on these:
 >
-> [Some Gaps and Examples in Intersection Theory by Fulton I](https://dvlxlwz.github.io/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-I/).
+> [Some Gaps and Examples in Intersection Theory by Fulton I](https://dvlxlwz.github.io/MyBlogs/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-I/).
 
 ## Chapter 7. Intersection Multiplicities
 ### Section 7.1. Proper Intersections
