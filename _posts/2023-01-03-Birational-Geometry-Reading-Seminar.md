@@ -14,7 +14,7 @@ This is my plan of the reading program of birational geometry for the beginner o
 ![](/my_pics/2023-01-03-1.jpg)
 
 ## -1. Our Notes
-Here is our notes: [BirGeo23](/my_notes/BirationalGeometry.pdf), update at 2023/03/07.
+Here is our notes: [BirGeo23](https://dvlxlwz.github.io/MyBlogs/my_notes/BirationalGeometry.pdf), update at 2023/03/07.
 
 ## 0. Preliminaries
 Including the basic theory of schemes and cohomology of coherent sheaves at the level of Hartshorne's book chapter 1-4 and some reults in chapter 5.
