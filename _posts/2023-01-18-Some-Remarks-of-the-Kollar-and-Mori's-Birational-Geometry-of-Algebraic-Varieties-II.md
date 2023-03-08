@@ -46,7 +46,7 @@ By **Step 2** we get a nef $L$ such that $F\_L\subset F\_{H+\mu M}$ with $\dim F
 
 The diagram here is not very clear, which leads me astray. Here I redraw a new clearer diagram:
 
-![placeholder](/my_pics/2023-01-18-1.png){: .align-center}
+![placeholder](/MyBlogs/my_pics/2023-01-18-1.png){: .align-center}
 
 We need to go through the following process with this diagram: 
 
