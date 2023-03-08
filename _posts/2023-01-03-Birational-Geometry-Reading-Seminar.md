@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 This is my plan of the reading program of birational geometry for the beginner of this area! Aiming to read the basic aspect in the birational geometry, both lower dimensional ($\dim X=2$) and higher dimensional ($\dim X\geq 3$) in algebraic geometry.
 <!--more-->
 
-![](/my_pics/2023-01-03-1.jpg)
+![](/MyBlogs/my_pics/2023-01-03-1.jpg)
 
 ## -1. Our Notes
 Here is our notes: [BirGeo23](https://dvlxlwz.github.io/MyBlogs/my_notes/BirationalGeometry.pdf), update at 2023/03/07.
