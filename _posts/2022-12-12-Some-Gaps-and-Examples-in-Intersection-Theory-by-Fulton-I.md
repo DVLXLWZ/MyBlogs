@@ -32,7 +32,7 @@ We may let $\mathscr{O}\_E(n):=\mathscr{O}\_{P(E)}(n)$.
 **Example 1.6.3.**
 
 ### Section 1.9. Affine Bundles
-**Example 1.9.1.**
+**Example 1.9.1.** This construction is called *affine stratification*! The conclusion can be eaily deduced byinduction, Proposition 1.8 and $\mathrm{CH}\_i(\mathbb{A}^n)$. For details we refer [3264][^3] section 1.3.5. $\blacksquare$
 
 ## Chapter 2. Divisors
 ### Section 2.6. Gysin Map for Divisors
@@ -231,3 +231,5 @@ where $s_i$ be the $i$-component of $S(J,X)$. $\blacksquare$
 [^1]: [Schwarzenberger] Schwarzenberger. Jacobians and symmetric products[J]. Illinois Journal of Mathematics, 1963, 7(2): 257-268.
 
 [^2]: [FulIT2nd] William Fulton. Intersection Theory, 2nd. Springer New York, NY. 1998.
+
+[^3]: [3264] David Eisenbud and Joe Harris, Harvard Unive 3264 and All That: A Second Course in Algebraic Geometry. Cambridge University Press, 2016.
