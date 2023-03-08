@@ -51,7 +51,7 @@ Now the inclusion $(\varrho,id):\Lambda\_X\to N\_XY\oplus\Lambda\_X$ as the comp
 \\[\Lambda\_X\to N\_X(Y\times T)=N\_XY\oplus i^* N\_Y(Y\times T)\cong N\_XY\oplus \Lambda\_X\\]
 where the first equality be the canonical decomposition of elements in $\Lambda\_X$ and the second isomorphism is mapping the part in the trivial bundle to the $\Lambda\_X$ making $\Lambda\_X\to\Lambda\_X$ is $id$! Hence $\varrho(\frac{\partial}{\partial t})$ is the first part! See the diagram as an example:
 
-![placeholder](/my_pics/2023-01-19-1.png){: .align-center}
+![placeholder](/MyBlogs/my_pics/2023-01-19-1.png){: .align-center}
 
 See also **Example 11.3.1** as a nice example. $\blacksquare$
 
