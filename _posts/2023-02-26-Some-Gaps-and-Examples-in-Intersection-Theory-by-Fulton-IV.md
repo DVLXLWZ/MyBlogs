@@ -128,6 +128,7 @@ Over. $\blacksquare$
 ### Section 14.3. Determinantal Formula
 **Theorem 14.3.** When we consider the *universal local case*, the birational morphism $\eta:Z(s\_{\sigma})\to\Omega(\underline{A},\sigma)$ plays an important role. To see that $\eta$ is birational, write down the elements of $\phi^{-1}(x)\cap Z(s\_{\sigma})$ for some $x\in X=\mathbb{A}^{ef}$. We find that this set will contain a single element if we remove the locus where the $\dim\ker\sigma(x)\|\_{A\_i(x)}<i$, that is, the locus where $(a\_i-i)$-minors vanishing in $\Omega(\underline{A},\sigma)$. $\blacksquare$
 
+### Section 14.4. Thom-Porteous Formula
 **Example 14.4.5.** 
 Here we may assume that $C$ is a smooth curve over some $k$ as it is the same as Example 4.3.2/4.3.3.
 
