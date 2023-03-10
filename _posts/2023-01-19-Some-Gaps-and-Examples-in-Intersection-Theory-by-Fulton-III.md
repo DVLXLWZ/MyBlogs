@@ -16,7 +16,7 @@ This is one of a series of blogs aiming to complete some details of the examples
 >
 > [Some Gaps and Examples in Intersection Theory by Fulton I](https://dvlxlwz.github.io/MyBlogs/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-I/);
 > 
-> [Some Gaps and Examples in Intersection Theory by Fulton II](https://dvlxlwz.github.io/MyBlogs/2022/12/12/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-II/).
+> [Some Gaps and Examples in Intersection Theory by Fulton II](https://dvlxlwz.github.io/MyBlogs/2022/12/28/Some-Gaps-and-Examples-in-Intersection-Theory-by-Fulton-II/).
 
 ## Chapter 10. Families of Algebraic Cycles
 ### Section 10.1. Families of Cycles Classes
