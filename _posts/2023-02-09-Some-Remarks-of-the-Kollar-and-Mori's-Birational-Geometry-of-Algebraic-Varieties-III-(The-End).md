@@ -15,7 +15,7 @@ This blog aim to give some remarks and complete some details in this book (Kolla
 >
 > [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties I](https://dvlxlwz.github.io/MyBlogs/2023/01/10/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-I/);
 > 
-> [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties II](https://dvlxlwz.github.io/MyBlogs/2023/01/10/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-II/).
+> [Some Remarks of the Kollar and Mori's Birational Geometry of Algebraic Varieties II](https://dvlxlwz.github.io/MyBlogs/2023/01/18/Some-Remarks-of-the-Kollar-and-Mori's-Birational-Geometry-of-Algebraic-Varieties-II/).
 
 ## Chapter 4. Surface Singularities of the Minimal Model Program
 ### Section 4.1. Log Canonical Surface Singulariries
