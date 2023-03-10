@@ -145,7 +145,7 @@ Not that the $C$ of genus $g$ is of *general moduli* means that the point corres
 ### Section 14.6. Grassman Bundles
 **Example 14.6.2.**
 
-**Example 14.6.4.** Why and How do we use this?
+**Example 14.6.4.** Why and how do we use this?
 
 ## Chapter 15. Riemann-Roch for Non-singular Varieties
 
