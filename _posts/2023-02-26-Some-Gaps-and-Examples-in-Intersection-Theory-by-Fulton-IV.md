@@ -2,7 +2,7 @@
 layout: post
 title: Some Gaps and Examples in Intersection Theory by Fulton IV
 date: 2023-02-26
-last_modified_at: 2023-03-06
+last_modified_at: 2023-03-10
 tags: [Algebraic Geometry]
 toc:  true
 math: true
@@ -141,6 +141,11 @@ Not that the $C$ of genus $g$ is of *general moduli* means that the point corres
 **Example 14.4.7.**
 
 **Example 14.4.12.** I don't know what's going on!
+
+### Section 14.6. Grassman Bundles
+**Example 14.6.2.**
+
+**Example 14.6.4.** Why and How do we use this?
 
 ## Chapter 15. Riemann-Roch for Non-singular Varieties
 
