@@ -152,7 +152,7 @@ Not that the $C$ of genus $g$ is of *general moduli* means that the point corres
 Note that the first step is to deduce the relations of Schubert relations as Example 14.7.2.
 
 (a) After checking the dimension of $[W\_C]$, we note that $[W\_C]=ag\_p+bg\_e$. Then by Example 14.7.1 we get
-\\[a=\int\_{G\_1(\mathbb{P}^3)}[W\_C]\cap (0,3),b=\int\_{G\_1(\mathbb{P}^3)}[W\_C]\cap (0,3).\\]
+\\[a=\int\_{G\_1(\mathbb{P}^3)}[W\_C]\cap (0,3),b=\int\_{G\_1(\mathbb{P}^3)}[W\_C]\cap (1,2).\\]
 Then we find that using the definiton of $(a\_0,...,a\_d)$ we get $a$ is just the apparent number $d$ of double points of $C$. Similarly, $b$ is the number of 2 points in whole $\deg C=n$ points over a general plane (by Bertini) and we get $b=\binom{n}{2}$.
 
 (b) After analyze the geometry-meanings, we find that this is just \\[\int\_{G\_1(\mathbb{P}^3)}[W\_C]\cap[V\_{C\_1}]\cap[V\_{C\_2}]\\]
