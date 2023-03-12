@@ -2,7 +2,7 @@
 layout: post
 title: Some Gaps and Examples in Intersection Theory by Fulton IV
 date: 2023-02-26
-last_modified_at: 2023-03-10
+last_modified_at: 2023-03-12
 tags: [Algebraic Geometry]
 toc:  true
 math: true
@@ -146,6 +146,20 @@ Not that the $C$ of genus $g$ is of *general moduli* means that the point corres
 **Example 14.6.2.**
 
 **Example 14.6.4.** Why and how do we use this?
+
+### Section 14.7. Schubert Calculus
+**Example 14.7.7.** This is a standard example to use the Schubert calculus to deal with some simple algebraic geometry problems and we write this as a model.
+Note that the first step is to deduce the relations of Schubert relations as Example 14.7.2.
+
+(a) After checking the dimension of $[W\_C]$, we note that $[W\_C]=ag\_p+bg\_e$. Then by Example 14.7.1 we get
+\\[a=\int\_{G\_1(\mathbb{P}^3)}[W\_C]\cap (0,3),b=\int\_{G\_1(\mathbb{P}^3)}[W\_C]\cap (0,3).\\]
+Then we find that using the definiton of $(a\_0,...,a\_d)$ we get $a$ is just the apparent number $d$ of double points of $C$. Similarly, $b$ is the number of 2 points in whole $\deg C=n$ points over a general plane (by Bertini) and we get $b=\binom{n}{2}$.
+
+(b) After analyze the geometry-meanings, we find that this is just \\[\int\_{G\_1(\mathbb{P}^3)}[W\_C]\cap[V\_{C\_1}]\cap[V\_{C\_2}]\\]
+and using the relations in Example 14.7.2 and the results in Example 14.7.6.(a) we get the result.
+
+(c) Similar as (b), we find that this is just \\[\int\_{G\_1(\mathbb{P}^3)}[W\_C]\cap[W\_{C'}]\\]
+and well done. $\blacksquare$
 
 ## Chapter 15. Riemann-Roch for Non-singular Varieties
 
