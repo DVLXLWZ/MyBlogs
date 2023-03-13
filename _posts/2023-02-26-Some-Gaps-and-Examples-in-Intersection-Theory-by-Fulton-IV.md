@@ -163,7 +163,7 @@ and well done. $\blacksquare$
 
 **Example 14.7.11.** Need to think that why the hyperplane section of $G$ (in Plucker embedding) coorespond to the $n-d-1$-planes in $\mathbb{P}^n$?
 
-**Example 14.7.12.(d).** How to compute $\int\_Xc\_1((A\_X^{\vee)^{\otimes 2}\otimes\mathscr{O}(1)\_X)^8=92$ and re-think the Example 3.2.22.
+**Example 14.7.12.(d).** How to compute $\int\_Xc\_1((A\_X^{\vee})^{\otimes 2}\otimes\mathscr{O}(1)\_X)^8=92$ and re-think the Example 3.2.22.
 
 **Example 14.7.13.** This is a great result and for details of this we refer [3264EH][^3] Proposition 6.4. Here we give a sketch.
 
