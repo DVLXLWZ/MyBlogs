@@ -2,7 +2,7 @@
 layout: post
 title: Some Gaps and Examples in Intersection Theory by Fulton IV
 date: 2023-02-26
-last_modified_at: 2023-03-12
+last_modified_at: 2023-03-13
 tags: [Algebraic Geometry]
 toc:  true
 math: true
@@ -161,6 +161,14 @@ and using the relations in Example 14.7.2 and the results in Example 14.7.6.(a) 
 (c) Similar as (b), we find that this is just \\[\int\_{G\_1(\mathbb{P}^3)}[W\_C]\cap[W\_{C'}]\\]
 and well done. $\blacksquare$
 
+**Example 14.7.11.**
+
+**Example 14.7.12.(d).**
+
+**Example 14.7.13.** This is a great result and for details of this we refer [3264EH][^3] Proposition 6.4. Here we give a sketch.
+
+By the property of $S$, we have that the fiber of $S^{\vee}$ at $[L]\in G$ is the space of linear forms on $L$, that is $H^0(\mathscr{O}\_{P(L)}(1)$. Hence the surjection $E\_G^{\vee}\to L^{\vee}$ is the restrict of linear forms to $L$. Hence so is acting $\mathrm{Sym}^m$ to deduce the $m$-degree forms case. Now a degree $m$ hyperplane $X$ defined by a zero of section $g$ of $\mathrm{Sym}^mE^{\vee}$ which deduce a degree $m$ section $g'$ of $\mathrm{Sym}^mS^{\vee}$ by restriction. Hence the zero of $g'$ is the points $[L]$ in $G$ such that $g'\|\_{L}=0$. As $X$ is the zero of $g$, then these $L$ is the $d$-planes in $X$! $\blacksquare$
+
 ## Chapter 15. Riemann-Roch for Non-singular Varieties
 
 ## Chapter 16. Correspondences
@@ -169,3 +177,5 @@ and well done. $\blacksquare$
 [^1]: [FulIT2nd] William Fulton. Intersection Theory, 2nd. Springer New York, NY. 1998.
 
 [^2]: [GT20] Ulrich Görtz, Torsten Wedhorn. Algebraic Geometry I: Schemes, 2nd. Springer Spektrum Wiesbaden. 2020.
+
+[^3]: [3264EH] David Eisenbud, Joe Harris. 3264 and All That, A Second Course in Algebraic Geometry. 2016.
