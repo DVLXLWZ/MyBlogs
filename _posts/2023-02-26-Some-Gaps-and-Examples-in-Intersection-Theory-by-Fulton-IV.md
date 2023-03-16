@@ -200,7 +200,26 @@ Now using this lemma inductively, we can get that $K=K\_0X$.
 Actually the next argument in the book giving the similar things. $\blacksquare$
 
 ### Section 15.2. Grothendieck-Riemann-Roch Theorem
-
+**Example 15.2.10.** Now as we have $0\to\mathscr{O}\_{P(E)}\to p^* E\otimes\mathscr{O}(1)\to T\_{P(E)/X}\to0$, we have
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
+<body>
+<p>
+\begin{align*}
+\chi(P(E),\mathscr{O}_{P(E)}&=\int_{P(E)}\mathrm{td}(T_{P(E)})\\
+  &=\int_{P(E)}\mathrm{td}(p^*T_X)\mathrm{td}(p^* E\otimes\mathscr{O}(1))\\
+  &=\int_{X}p_*(\mathrm{td}(p^*T_X)\mathrm{td}(p^* E\otimes\mathscr{O}(1))\cap[P(E)])\\
+  &=\int_{X}\mathrm{td}(T_X)p_*(\mathrm{td}(p^* E\otimes\mathscr{O}(1))\cap[P(E)])=?
+\end{align*}
+</p>
+</body>
 
 ## Chapter 16. Correspondences
 
