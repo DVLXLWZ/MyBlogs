@@ -2,7 +2,7 @@
 layout: post
 title: Some Gaps and Examples in Intersection Theory by Fulton IV
 date: 2023-02-26
-last_modified_at: 2023-03-15
+last_modified_at: 2023-03-16
 tags: [Algebraic Geometry]
 toc:  true
 math: true
@@ -199,6 +199,7 @@ by coherent subsheaves such that for each $j=1,...,m$ there exist an integral cl
 Now using this lemma inductively, we can get that $K=K\_0X$. 
 Actually the next argument in the book giving the similar things. $\blacksquare$
 
+### Section 15.2. Grothendieck-Riemann-Roch Theorem
 
 
 ## Chapter 16. Correspondences
