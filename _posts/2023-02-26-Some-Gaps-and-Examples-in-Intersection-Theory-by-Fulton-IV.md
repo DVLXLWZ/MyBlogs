@@ -2,7 +2,7 @@
 layout: post
 title: Some Gaps and Examples in Intersection Theory by Fulton IV
 date: 2023-02-26
-last_modified_at: 2023-03-16
+last_modified_at: 2023-03-18
 tags: [Algebraic Geometry]
 toc:  true
 math: true
@@ -220,7 +220,9 @@ Actually the next argument in the book giving the similar things. $\blacksquare$
 \end{align*}
 </p>
 </body>
- emm
+</html>
+
+**Example 15.2.17.** How can we let $X$ to be the smooth projective variety?
 
 ## Chapter 16. Correspondences
 
