@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Gaps and Examples in Intersection Theory by Fulton IV
+title: Some Gaps and Examples in Intersection Theory by Fulton IV (The End)
 date: 2023-02-26
 last_modified_at: 2023-03-21
 tags: [Algebraic Geometry]
@@ -8,7 +8,7 @@ toc:  true
 math: true
 excerpt_separator: <!--more-->
 ---
-This is one of a series of blogs aiming to complete some details of the examples in this book (*Intersection Theory, 2nd edition* by William Fulton[^1]) and give some comments. This blog we consider chapter 14 to chapter 16.
+This is one of a series of blogs aiming to complete some details of the examples in this book (*Intersection Theory, 2nd edition* by William Fulton[^1]) and give some comments. This blog we consider chapter 14 to chapter 17.
 
 <!--more-->
 
@@ -229,6 +229,10 @@ Actually the next argument in the book giving the similar things. $\blacksquare$
 **Example 16.1.4.(c).** As $P$ is rational, if we let $q=P^{XY}\_X$, we have
 \\[\int\_{X\times Y}\alpha\cdot[P\times Y]=\int\_{X}q\_* (\alpha\cdot q^* [P])=\int\_{X}q\_* \alpha\cap [P]=d\_1(\alpha)\\]
 and well done. $\blacksquare$
+
+
+## Chapter 17. Bivariant Intersection Theory
+
 
 [^1]: [FulIT2nd] William Fulton. Intersection Theory, 2nd. Springer New York, NY. 1998.
 
