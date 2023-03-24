@@ -2,7 +2,7 @@
 layout: post
 title: Reading program on moduli space of curves
 date: 2022-11-15
-last_modified_at: 2023-02-02
+last_modified_at: 2023-03-25
 tags: [Math Programs]
 toc:  true
 math: true
@@ -80,12 +80,13 @@ and more properties. These things we follows [ACG11][^1]. Finally we may discuss
 ### 4.3. The Kodaira dimension of the moduli space of stable curves
 First we will state many recent results about this, such that when $g\geq 22$, the space $\overline{M}\_{g}$ is of general type and some results about small genus with makred points. Then we will prove the classical result thatwhen $g\geq 24$, the space $\overline{M}\_{g}$ is of general type (We may will refer David Eisenbud and Joe Harris’s papers: including [Limit linear series: Basic theory](https://link.springer.com/article/10.1007/BF01389094) and [The Kodaira dimension of the moduli space of curves of genus>=23](https://link.springer.com/article/10.1007/BF01388710)).
 
+### 4.4. Hassett-Keel program of the moduli space of stable curves
 Actually we now can discover something about canonical model and log canonical model of $\overline{M}\_{g}$ when $g\gg 0$ by famous BCHM.
 This is called **Hassett-Keel program**. 
 In fact if we let
 \\[\overline{M}\_{g}(\alpha)=\mathrm{Proj}\left(\bigoplus\_{n\geq0}
 H^0\left(\overline{\scr{M}}\_{g},\left\lfloor n(K\_{\overline{\scr{M}}\_{g}}+\alpha\delta)\right\rfloor\right)\right),\\]
-then one can get Hassett-Hyeon theorem:
+then one can get Hassett-Hyeon theorem (We will focus on the first two results):
 
 <html>
 <head>
@@ -124,7 +125,7 @@ Actually, as the case of Deligne-Mumford stability, for all $\alpha>2/3+\varepsi
 descends to an ample line bundle on $\overline{\mathbb{M}}\_{g,n}(\alpha)$, and conclude that
 $\overline{\mathbb{M}}\_{g,n}(\alpha)\cong\overline{M}\_{g,n}(\alpha)$.
 
-### 4.4. Intersection theory of moduli space of curves
+### 4.5. Intersection theory of moduli space of curves
 
 We may refer Letterio Gatto’s book: [Intersection theory on moduli space of curves](https://impa.br/wp-content/uploads/2017/04/Mon_61.pdf) but I may not use it. I use the chapter XVII in [ACG11][^1]. 
 
@@ -163,10 +164,6 @@ of curves! There are many useful conclusion at the way proving this theorem and 
 we will give a sketch of the proof.
 
 ## 6. A glimpse of Kontsevich’s moduli space of stable maps
-
-Need to add.
-
-## $\infty$. Maybe some recent result...
 
 Need to add.
 
