@@ -2,7 +2,7 @@
 layout: post
 title: Reading Program on Intersection Theory and Motives
 date: 2023-01-29
-last_modified_at: 2023-02-28
+last_modified_at: 2023-03-26
 tags: [Math Programs]
 toc:  true
 math: true
@@ -14,7 +14,7 @@ This is my plan of the reading program of the intersection theory and Chow motiv
 
 ## -1. The timeline
 
-Maybe **12/09/2022 -- 8/20/2023**.
+Maybe **12/09/2022 -- ???**.
 
 ## 0. Preliminaries we need
 Including the basic theory of schemes and cohomology of coherent sheaves (such as R. Hartshorne's AG chapter 2,3), the basic theory of curves and a little bit surface theory.
@@ -38,7 +38,7 @@ Including the basic theory of schemes and cohomology of coherent sheaves (such a
 >  **3264 and All That, A Second Course in Algebraic Geometry by David Eisenbud and Joe Harris.** (see [3264 and All That](https://www.cambridge.org/core/books/3264-and-all-that/DC062983CC5F8B7CDD37CFEBCCA5FEA4).
 
 ## 2. The basic theory of étale cohomology
-Here are some notes I may read:
+Here are my notes (in Chinese): [EtaleCoh](https://dvlxlwz.github.io/files/EtaleCoh.pdf).
 
 + **Lectures on Etale Cohomology - J.S. Milne.** I will read the first part of this [notes](https://www.jmilne.org/math/CourseNotes/LEC.pdf) (that is, before the proof of Weil's conjecture).
 
