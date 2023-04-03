@@ -2,7 +2,7 @@
 layout: post
 title: Reading program on moduli space of curves
 date: 2022-11-15
-last_modified_at: 2023-03-27
+last_modified_at: 2023-04-03
 tags: [Math Programs]
 toc:  true
 math: true
@@ -111,6 +111,8 @@ $$
 </p>
 </body>
 </html>
+
+We will focus the first two cases.
 
 Moreover, in series of papers (as [Alper17][^13]), Jarod Alper, Maksym Fedorchuk, David Smyth, and Frederick van der Wyck find that if we let
 \\[\overline{M}\_{g,n}(\alpha)=\mathrm{Proj}\left(\bigoplus\_{n\geq0}
